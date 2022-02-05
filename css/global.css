@@ -696,7 +696,7 @@ img {
   font-size: var(--font-16);
   color: var(--white-color);
   text-transform: capitalize;
-  background-color: var(--main-color);
+  background-color: #ff5722;
   font-family: var(--font-family-OpenSans);
 }
 
@@ -994,7 +994,7 @@ img {
   position: relative;
   font-weight: 600;
   letter-spacing: 1.8px;
-  color: var(--main-color);
+  color: #ff5722;
   font-size: var(--font-18);
   text-transform: uppercase;
   display: inline-block;

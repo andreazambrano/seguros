@@ -809,9 +809,9 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--main-color);
+  color: rgb(255 255 255);
   font-size: var(--font-18);
-  background-color: var(--main-color-light);
+  background-color: #ff5722;
   -webkit-transition: all 300ms ease;
   -ms-transition: all 300ms ease;
   -o-transition: all 300ms ease;

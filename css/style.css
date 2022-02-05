@@ -431,7 +431,7 @@
   -webkit-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
-  background-color: var(--main-color);
+  background-color: #ff5722;
 }
 
 .main-slider .owl-dots .owl-dot:before {
@@ -566,7 +566,8 @@
   right: 0px;
   top: 0px;
   z-index: -1;
-  border-top: 200px solid var(--main-color);
+  border-top: 200px solid #ff5722;
+
   border-left: 200px solid transparent;
 }
 
@@ -760,7 +761,7 @@
   -webkit-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
-  background-color: var(--main-color);
+  background-color: #ff5722;
 }
 
 .services-section .owl-dots .owl-dot:before {
@@ -1150,7 +1151,7 @@
   line-height: 40px;
   font-size: var(--font-24);
   color: var(--white-color);
-  background-color: var(--main-color);
+  background-color: #ff5722;
   font-family: var(--font-family-Ubuntu);
 }
 
@@ -1283,7 +1284,7 @@
   -webkit-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
-  background-color: var(--main-color);
+  background-color: #ff5722;
 }
 
 .team-section .owl-dots .owl-dot:before {
@@ -1590,7 +1591,7 @@
   height: 50px;
   text-align: center;
   line-height: 50px;
-  color: var(--main-color);
+  color: #ff5722;
   transition: all 500ms ease;
   -moz-transition: all 500ms ease;
   -webkit-transition: all 500ms ease;
@@ -1803,7 +1804,7 @@
   -webkit-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
-  background-color: var(--main-color);
+  background-color: #ff5722;
 }
 
 .testimonial-section .owl-dots .owl-dot:before {
@@ -2766,7 +2767,7 @@
   margin: 0 auto;
   font-size: var(--font-30);
   color: var(--white-color);
-  background-color: var(--main-color);
+  background-color: #ff5722;
   margin-bottom: var(--margin-bottom-50);
 }
 
